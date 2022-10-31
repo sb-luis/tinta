@@ -1,0 +1,23 @@
+{
+  "name": "@sb-luis/tinta",
+  "version": "0.0.4",
+  "description": "Generate placeholder text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sb-luis/tinta.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "Luis Sanchez Barranquero <luis.sb.dev@gmail.com> (lsb.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sb-luis/tinta/issues"
+  },
+  "homepage": "https://github.com/sb-luis/tinta#readme",
+  "dependencies": {}
+}
